@@ -1,0 +1,29 @@
+# Lab data and private intermediate files: NEVER COMMIT
+/data/
+/outputs/
+/raw/
+/private/
+*.nc
+*.nc4
+*.h5
+*.hdf5
+*.mat
+*.zip
+*.7z
+*.rar
+*.asv
+*.log
+*.tmp
+*.doc
+*.docx
+*.xlsx
+# Python caches / virtual environments
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
